@@ -4,3 +4,4 @@ alteraçao continua nesse exercicio1
 continuando essa alteraçao
 
 minha alteracao é essa
+alteracao pra gerar um conflito
